@@ -1,1 +1,3 @@
-# algorithm-swift
+# Algorithms
+
+A description of this package.
